@@ -18,3 +18,7 @@ Format: **Date | Decision | Why | Alternatives considered**
 
 **24/10/2026 | Start with Monzo + Starling importers**
 - Why: popular with students, clean CSV exports. Generic AI column-mapper later (S1). To validate in interviews.
+
+**03/11/2026 | Discovery deadline moved from 08/11 to 15/11**
+- Why: repo setup took longer than planned alongside uni work; interviews hadn't started.
+- Impact: MVP build starts a week later; December target kept by tightening build scope if needed.
