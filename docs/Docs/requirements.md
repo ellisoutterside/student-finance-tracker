@@ -149,7 +149,7 @@ The LLM handles language and judgement (categorising messy merchant names, under
 ## 10. Milestones
 | Phase | Deadline | Exit criteria |
 |---|---|---|
-| Discovery | 08/11/2026 | 5–10 student interviews done; PRD v1 updated with findings |
+| Discovery | 15/11/2026 | 5–10 student interviews done; PRD v1 updated with findings |
 | MVP build (M1–M9) | 13/12/2026 | Ellis using it on his own data |
 | Tester round 1 | 03/01/2027 | ≥10 testers onboarded; feedback logged |
 | Iterate (v2) | 17/01/2027 | Top 3 issues fixed; metrics collected |
