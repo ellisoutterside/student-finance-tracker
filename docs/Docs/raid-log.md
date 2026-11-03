@@ -34,7 +34,7 @@
 ## Dependencies
 | ID | Dependency | Needed by | Status |
 |---|---|---|---|
-| D1 | GitHub account + repo | 27/10/2026 | Pending |
+| D1 | GitHub account + repo | 27/10/2026 | Done 03/11/2026 |
 | D2 | Claude Code installed | 31/10/2026 | Pending |
 | D3 | Interview participants (5–10 students) | 08/11/2026 | Pending |
 | D4 | Anthropic API key + credit | Mid-11/2026 | Pending |
