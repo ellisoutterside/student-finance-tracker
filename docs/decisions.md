@@ -31,3 +31,9 @@ Format: **Date | Decision | Why | Alternatives considered**
 **05/11/2026 | Stay with the finance tracker; park the driving-instructor idea**
 - Why: scored both ideas against the project goals. Finance tracker: AI is core, I personally have the problem, and I can reach 10 student users by January. Driving-instructor booking system: crowded market (Total Drive, MyDriveTime, Bitepoint and others), AI would be bolted on, and it needs real businesses and learners on both sides, which is too slow for the award timeline.
 - Alternatives: switch to the driving idea (parked in ideas.md as a possible future business).
+
+**06/11/2026 | Clarified the AI Innovator of the Year application process; decoupled MVP pace from the January deadline**
+- Why: read the full published award page (UGOTY, sponsored by Skyscanner). The entry stage, due 25/01/2027 12pm, is only registration plus three SHL assessments (personality questionnaire, situational judgement test, reasoning test) — no project, essay or portfolio submission required. The Skyscanner-style finalist examples ("built an AI tool a team could keep using," etc.) describe work done *after* selection, not what's needed to enter. Project relevance, if any, comes later (interviews/assessment centre, if invited past the SHL stage — notified by 26/02/2027).
+- Impact: removed the artificial pressure to have Runway finished before 25/01/2027. Updated the PRD target line and the milestone table's award-related row accordingly.
+- Open: eligibility is still unresolved — the "penultimate year" rule interacts awkwardly with my placement-year application (I'm currently 2nd year); needs checking directly with UGOTY/targetjobs before relying on this cycle. Logged as an open question in `requirements.md`.
+- Alternatives considered: keep treating 25/01/2027 as a hard "app must be finished" deadline (rejected — based on a misreading of the actual process).

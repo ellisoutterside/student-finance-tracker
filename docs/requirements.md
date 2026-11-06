@@ -6,7 +6,7 @@
 | Owner (PM) | Ellis |
 | Status | Draft v0.1 |
 | Last updated | 24/10/2026 |
-| Target | MVP with real student testers before the targetjobs AI Innovator of the Year deadline (expected ~late 01/2027) |
+| Target | MVP with real student testers, at a sustainable pace. Not gated by the UGOTY "AI Innovator of the Year" application — that only needs registration + 3 SHL assessments by 25/01/2027, no project submission (see `decisions.md`, 06/11/2026) |
 
 ---
 
@@ -153,12 +153,12 @@ The LLM handles language and judgement (categorising messy merchant names, under
 | MVP build (M1–M9) | 13/12/2026 | Ellis using it on his own data |
 | Tester round 1 | 03/01/2027 | ≥10 testers onboarded; feedback logged |
 | Iterate (v2) | 17/01/2027 | Top 3 issues fixed; metrics collected |
-| Award application | ~23/01/2027 | Essays drafted from decision log + metrics (confirm real deadline when published) |
+| UGOTY registration + SHL tests | 25/01/2027, 12pm | Registered; all 3 SHL assessments (personality, situational judgement, reasoning) completed. No project submission needed |
 
 ---
 
 ## 11. Open questions
-- Does the 2027 award have the same sponsor and essay questions? (check when published)
+- Does a placement year (if I get one) make me ineligible for this UGOTY cycle, given the "penultimate year" eligibility rule? Check directly with UGOTY/targetjobs before relying on this cycle.
 - Which banks do Lancaster students actually use? (ask in interviews)
 - Web app vs local app for testers?
 - Final product name
