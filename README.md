@@ -57,6 +57,8 @@ I'm treating this as a product, not just a coding project. I'm acting as product
 | [RAID log](docs/raid-log.md) | Risks, assumptions, issues and dependencies |
 | [Stakeholders](docs/stakeholders.md) | Who's affected and how they're involved |
 | [Learning log](docs/learning-log.md) | What I've learned along the way |
+| [Ideas parking lot](docs/ideas.md) | Ideas parked for later, and why |
+| [Discovery survey](docs/survey.md) | Survey questions and analysis plan |
 
 ## Tech (provisional)
 Python · SQLite · Streamlit · Claude API · pytest
