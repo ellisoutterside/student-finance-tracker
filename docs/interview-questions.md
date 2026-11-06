@@ -38,23 +38,24 @@ Record: participant code (e.g. P01), year of study, living situation (halls / ho
 4. Do you use anything to keep track: banking app features, a spreadsheet, notes, nothing? What made you start or stop?
 5. Which bank(s) do you use?
 6. Have you ever exported a statement or looked at your full transaction history? What for?
+7. If you've got your banking app on you, could you show me how you'd export a statement right now? *(Observe, don't help unless they're completely stuck: how many steps, where they hesitate, roughly how long it takes. This is a live test of A2, not just a stated opinion.)*
 
 ## Section 3: Stress points (RQ2) (4 mins)
-7. Think about last term. Was there a point where money got tight? When was it, and what happened?
-8. When your loan came in, how did you plan how long it needed to last? *(Listen for whether they think in months, weeks or terms.)*
-9. What do you wish you'd known earlier about where your money was going?
+8. Think about last term. Was there a point where money got tight? When was it, and what happened?
+9. When your loan came in, how did you plan how long it needed to last? *(Listen for whether they think in months, weeks or terms.)*
+10. What do you wish you'd known earlier about where your money was going?
 
 ## Section 4: Spending decisions (RQ3) (4 mins)
-10. Tell me about the last night out or social thing you almost didn't go to because of money. How did you decide?
-11. Have you ever been saving for something specific, like a trip or a gig? How did that go?
+11. Tell me about the last night out or social thing you almost didn't go to because of money. How did you decide?
+12. Have you ever been saving for something specific, like a trip or a gig? How did that go?
 
 ## Section 5: AI and trust (RQ5) (2 mins)
-12. Have you used AI (ChatGPT, Claude, etc.) for anything to do with money? What happened?
-13. What would make you trust, or not trust, an AI giving you money advice?
+13. Have you used AI (ChatGPT, Claude, etc.) for anything to do with money? What happened?
+14. What would make you trust, or not trust, an AI giving you money advice?
 
 ## Wrap-up (1 min)
-14. Is there anything about money at uni I haven't asked that I should have?
-15. Would you be up for testing a tool later in the term? *(Collect contact details separately from notes, so notes stay anonymous.)*
+15. Is there anything about money at uni I haven't asked that I should have?
+16. Would you be up for testing a tool later in the term? *(Collect contact details separately from notes, so notes stay anonymous.)*
 
 ---
 

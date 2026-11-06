@@ -16,6 +16,7 @@
 | R3 | Seen as a Cleo copy | M | M | Lead with term/loan runway model | Ellis | Open |
 | R4 | AI gives wrong money figures | L | H | Maths in tested code only | Claude Code | Open |
 | R5 | Uni workload squeezes project time | H | M | Fixed weekly slots; small tasks | Ellis | Open |
+| R6 | CSV export is multi-step and cross-app (bank app → Files → Runway); could cause drop-off even among willing students | M | M | Observe real export attempts in interviews (A2); consider an in-app step-by-step export guide per bank | Ellis | Open |
 
 ## Assumptions (to test in Discovery)
 | ID | Assumption | How I'll test it | Result |
